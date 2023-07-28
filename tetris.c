@@ -183,7 +183,7 @@ void delete_str(int cup_arr[][CUP_X], int num)
    
 }
 
-
+//
 void comp_and_del(int cup_arr[][CUP_X])
 {
  for(int i = 0; i < CUP_Y; i++)
