@@ -314,4 +314,3 @@ int main()
  endwin();
 }
 
-//
