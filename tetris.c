@@ -157,6 +157,7 @@ void  generate_fig(int fig_[4][4])
                                                     
 }
 
+
 bool complete_str (int cup_arr[][CUP_X], int num_str)
 {
  
