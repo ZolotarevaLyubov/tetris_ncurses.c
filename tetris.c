@@ -10,7 +10,6 @@ char const empty = '.';
 int mean_x = (CUP_X / 2) - 2;
 int y = 0;
     
-
 void print_figure (int fig[][4], int y, int x)
 {
  
