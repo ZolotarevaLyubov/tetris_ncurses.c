@@ -6,6 +6,7 @@
 #define CUP_X 10 
 #define DELAY 1
 
+
 char const empty = '.'; 
 int mean_x = (CUP_X / 2) - 2;
 int y = 0;
