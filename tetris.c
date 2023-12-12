@@ -6,7 +6,6 @@
 #define CUP_X 10 
 #define DELAY 1
 
-
 char const empty = '.'; 
 int mean_x = (CUP_X / 2) - 2;
 int y = 0;
@@ -66,7 +65,6 @@ void cup_fill (int cup[][CUP_X])
   }
  }
 }
-
 
 
 bool clash_fig( int fig_[][4], int cup[][CUP_X], int y, int x)
@@ -155,7 +153,6 @@ void  generate_fig(int fig_[4][4])
   }
                                                     
 }
-
 
 bool complete_str (int cup_arr[][CUP_X], int num_str)
 {
