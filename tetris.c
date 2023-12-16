@@ -12,7 +12,6 @@ int y = 0;
     
 void print_figure (int fig[][4], int y, int x)
 {
- 
  for (int i = 0; i < 4; i++)
  {
   for (int j = 0; j < 4; j++)
