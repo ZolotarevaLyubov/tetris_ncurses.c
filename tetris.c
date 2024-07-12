@@ -65,7 +65,6 @@ void cup_fill (int cup[][CUP_X])
  }
 }
 
-
 bool clash_fig( int fig_[][4], int cup[][CUP_X], int y, int x)
 {
  for(int i = 0; i < 4; i++ )
