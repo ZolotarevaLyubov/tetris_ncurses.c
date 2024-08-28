@@ -20,6 +20,7 @@ void print_figure (int fig[][4], int y, int x)
   }
  } 
 }
+
 void copy_fig(int fig_[][4], int new_fig[][4])
 {
  for(int i = 0; i < 4; i++)
