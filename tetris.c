@@ -34,7 +34,6 @@ void copy_fig(int fig_[][4], int new_fig[][4])
 
 void print_cup (int cup[][CUP_X], int y, int x)
 {
- 
  for (int i = 0; i < CUP_Y; i++)
  {
   for (int j = 0; j < CUP_X; j++)
